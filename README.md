@@ -37,7 +37,7 @@ El Clausura llegó al partido 12 con tres puntos más que el Apertura, pero term
 
 Python automatiza los cálculos, las validaciones, la carga y las exportaciones. SQLite contiene la base analítica. Matplotlib y NumPy generan los gráficos, ReportLab compone las filminas y Poppler permite exportarlas a PNG. La lectura de documentos de LPF Data se apoyó en pdfplumber y en la inspección de sus páginas.
 
-La adquisición fue una recopilación y transcripción controlada de fuentes públicas. Los scripts incluidos procesan esos archivos; no descargan automáticamente las páginas. El proyecto no requiere ScraperFC, Power BI ni Looker Studio para reproducir el informe.
+La adquisición fue una recopilación y transcripción controlada de fuentes públicas. Los scripts incluidos procesan esos archivos; no descargan automáticamente las páginas.
 
 ## Reproducir
 

@@ -1,0 +1,33 @@
+﻿torneo,temporada,fase,jornada,fecha,rival,condicion,goles_favor,goles_contra,fuente_url,fecha_consulta,resultado,puntos,orden_disputado,puntos_acumulados,valla_invicta,sin_marcar
+Apertura,2026,Regular,1,2026-01-24,Rosario Central,Visitante,2,1,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,1,3,0,0
+Apertura,2026,Regular,2,2026-01-29,Tigre,Local,1,1,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,E,1,2,4,0,0
+Apertura,2026,Regular,3,2026-02-02,Argentinos Juniors,Visitante,0,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,E,1,3,5,1,1
+Apertura,2026,Regular,4,2026-02-07,Banfield,Local,1,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,4,8,1,0
+Apertura,2026,Regular,5,2026-02-14,Independiente Rivadavia,Visitante,1,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,5,11,1,0
+Apertura,2026,Regular,6,2026-02-20,Defensa y Justicia,Visitante,1,1,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,E,1,6,12,0,0
+Apertura,2026,Regular,7,2026-02-24,Atlético Tucumán,Local,3,1,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,7,15,0,0
+Apertura,2026,Regular,8,2026-03-03,Huracán,Visitante,1,3,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,P,0,8,15,0,0
+Apertura,2026,Regular,10,2026-03-12,Estudiantes de Río Cuarto,Visitante,1,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,9,18,1,0
+Apertura,2026,Regular,11,2026-03-15,Talleres,Local,0,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,E,1,10,19,1,1
+Apertura,2026,Regular,12,2026-03-21,Racing Club,Local,1,2,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,P,0,11,19,0,0
+Apertura,2026,Regular,13,2026-04-05,River Plate,Visitante,0,3,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,P,0,12,19,0,1
+Apertura,2026,Regular,14,2026-04-10,Aldosivi,Local,1,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,13,22,1,0
+Apertura,2026,Regular,15,2026-04-20,Barracas Central,Visitante,0,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,E,1,14,23,1,1
+Apertura,2026,Regular,16,2026-04-26,Gimnasia y Esgrima La Plata,Local,0,1,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,P,0,15,23,0,1
+Apertura,2026,Regular,9,2026-05-03,Sarmiento,Local,4,0,https://www.afa.com.ar/historiadel/posts/la-campana-de-belgrano-de-cordoba-campeon-del-torneo-apertura-2026,2026-11-13,G,3,16,26,1,0
+Clausura,2026,Regular,1,2026-07-23,Rosario Central,Local,2,1,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,G,3,1,3,0,0
+Clausura,2026,Regular,3,2026-08-01,Argentinos Juniors,Local,0,1,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,P,0,2,3,0,1
+Clausura,2026,Regular,2,2026-08-05,Tigre,Visitante,0,0,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,E,1,3,4,1,1
+Clausura,2026,Regular,4,2026-08-10,Banfield,Visitante,2,0,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,G,3,4,7,1,0
+Clausura,2026,Regular,5,2026-08-15,Independiente Rivadavia,Local,2,0,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,G,3,5,10,1,0
+Clausura,2026,Regular,6,2026-08-23,Defensa y Justicia,Local,1,2,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,P,0,6,10,0,0
+Clausura,2026,Regular,7,2026-08-29,Atlético Tucumán,Visitante,0,0,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,E,1,7,11,1,1
+Clausura,2026,Regular,8,2026-09-04,Huracán,Local,1,1,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,E,1,8,12,0,0
+Clausura,2026,Regular,9,2026-09-13,Sarmiento,Visitante,1,1,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,E,1,9,13,0,0
+Clausura,2026,Regular,10,2026-09-20,Estudiantes de Río Cuarto,Local,2,1,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,G,3,10,16,0,0
+Clausura,2026,Regular,11,2026-10-04,Talleres,Visitante,1,0,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,G,3,11,19,1,0
+Clausura,2026,Regular,12,2026-10-11,Racing Club,Visitante,2,0,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,G,3,12,22,1,0
+Clausura,2026,Regular,13,2026-10-18,River Plate,Local,0,3,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,P,0,13,22,0,1
+Clausura,2026,Regular,14,2026-10-25,Aldosivi,Visitante,0,1,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,P,0,14,22,0,1
+Clausura,2026,Regular,15,2026-11-01,Barracas Central,Local,2,2,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,E,1,15,23,0,0
+Clausura,2026,Regular,16,2026-11-05,Gimnasia y Esgrima La Plata,Visitante,1,2,https://www.tycsports.com/liga-profesional-de-futbol/fixture-del-clausura-2026-calendario-de-partidos-y-resultados-id750943.html,2026-11-13,P,0,16,23,0,0

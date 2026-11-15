@@ -1,0 +1,3 @@
+﻿torneo,partidos,posesion_promedio_pct,remates_totales,remates_por_partido,remates_promedio_redondeado,fuente_url,paginas_pdf,fecha_consulta,fuente_remates_totales,fuente_cotejo
+Apertura,16,50.4,180,11.25,False,https://www.ligaprofesional.ar/wp-content/uploads/2026/05/LPF-Data-Fecha-9-Torneo-Apertura-Mercado-Libre-2026.pdf,"[8, 9, 13]",2026-11-13,,
+Clausura,16,54.0,234,14.6,True,https://www.ligaprofesional.ar/wp-content/uploads/2026/11/LPF-Data-Prensa-Fecha-16.pdf,"[4, 9]",2026-11-13,https://statz.ai/team/belgrano/shots-total,https://matchscan.co/en/database/liga-profesional-argentina/belgrano

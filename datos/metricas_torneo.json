@@ -1,0 +1,33 @@
+[
+  {
+    "torneo": "Apertura",
+    "partidos": 16,
+    "posesion_promedio_pct": 50.4,
+    "remates_totales": 180,
+    "remates_por_partido": 11.25,
+    "remates_promedio_redondeado": false,
+    "fuente_url": "https://www.ligaprofesional.ar/wp-content/uploads/2026/05/LPF-Data-Fecha-9-Torneo-Apertura-Mercado-Libre-2026.pdf",
+    "paginas_pdf": [
+      8,
+      9,
+      13
+    ],
+    "fecha_consulta": "2026-11-13"
+  },
+  {
+    "torneo": "Clausura",
+    "partidos": 16,
+    "posesion_promedio_pct": 54.0,
+    "remates_totales": 234,
+    "remates_por_partido": 14.6,
+    "remates_promedio_redondeado": true,
+    "fuente_url": "https://www.ligaprofesional.ar/wp-content/uploads/2026/11/LPF-Data-Prensa-Fecha-16.pdf",
+    "paginas_pdf": [
+      4,
+      9
+    ],
+    "fecha_consulta": "2026-11-13",
+    "fuente_remates_totales": "https://statz.ai/team/belgrano/shots-total",
+    "fuente_cotejo": "https://matchscan.co/en/database/liga-profesional-argentina/belgrano"
+  }
+]

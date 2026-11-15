@@ -1,0 +1,32 @@
+[
+  {
+    "torneo": "Apertura",
+    "partidos": 16,
+    "puntos": 26,
+    "gf": 17,
+    "gc": 13,
+    "ganados": 7,
+    "empatados": 5,
+    "perdidos": 4,
+    "vallas_invictas": 8,
+    "sin_marcar": 5,
+    "ultimos_4_puntos": 7,
+    "puntos_local": 14,
+    "puntos_visitante": 12
+  },
+  {
+    "torneo": "Clausura",
+    "partidos": 16,
+    "puntos": 23,
+    "gf": 17,
+    "gc": 15,
+    "ganados": 6,
+    "empatados": 5,
+    "perdidos": 5,
+    "vallas_invictas": 6,
+    "sin_marcar": 5,
+    "ultimos_4_puntos": 1,
+    "puntos_local": 11,
+    "puntos_visitante": 12
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "torneo": "Apertura",
+    "fecha_local": "2026-04-10",
+    "rival": "Aldosivi",
+    "remates_recibidos": 9,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Apertura",
+    "fecha_local": "2026-04-20",
+    "rival": "Barracas Central",
+    "remates_recibidos": 12,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Apertura",
+    "fecha_local": "2026-04-26",
+    "rival": "Gimnasia LP",
+    "remates_recibidos": 6,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Apertura",
+    "fecha_local": "2026-05-03",
+    "rival": "Sarmiento",
+    "remates_recibidos": 6,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Clausura",
+    "fecha_local": "2026-10-18",
+    "rival": "River Plate",
+    "remates_recibidos": 14,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Clausura",
+    "fecha_local": "2026-10-25",
+    "rival": "Aldosivi",
+    "remates_recibidos": 15,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Clausura",
+    "fecha_local": "2026-11-01",
+    "rival": "Barracas Central",
+    "remates_recibidos": 21,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  },
+  {
+    "torneo": "Clausura",
+    "fecha_local": "2026-11-05",
+    "rival": "Gimnasia LP",
+    "remates_recibidos": 12,
+    "fuente": "https://statz.ai/team/belgrano/shots-total",
+    "consulta": "2026-11-15"
+  }
+]

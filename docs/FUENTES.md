@@ -25,7 +25,7 @@ Los totales anuales de las fichas no se utilizan como totales del Clausura. El r
 
 **Fernández:** KiqStat/FotMob registra 35 remates en el Clausura; Statz/Scout Picks registra uno menos ante Estudiantes de Río Cuarto. El análisis adopta 34 y explicita esa elección. Con el criterio KiqStat, el grupo de tres delanteros sumaría 74 remates, con 40,5% al arco y 10,8% de conversión, frente a 73, 41,1% y 11,0% en el recuento presentado.
 
-**Remates totales del equipo:** 234 procede de la suma de los partidos en Statz y del total publicado por MatchScan, no de multiplicar 14,6 por 16. Ese producto no recuperaría necesariamente un total exacto.
+**Remates totales del equipo:** 234 procede de la suma de los partidos en Statz y del total publicado por MatchScan.
 
 **Fechas:** se usa el calendario local de Argentina. Algunas páginas muestran un día posterior para partidos nocturnos. El cruce se realiza también por rival, localía y marcador.
 

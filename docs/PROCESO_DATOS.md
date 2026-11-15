@@ -40,7 +40,3 @@ La clave de `partidos` es torneo + jornada. El script reconstruye las tablas a p
 `src/crear_informe.py` usa Matplotlib y NumPy para calcular y dibujar las curvas de puntos y los bloques. ReportLab compone el PDF de seis páginas. Los totales de remates recibidos y las filas de delanteros se leen desde JSON. El relato y parte de las etiquetas del carrusel están definidos para este recorte de 2026; ante otro período se deben revisar también los textos.
 
 Poppler convierte el PDF en imágenes PNG de 1080 × 1350. Las páginas se inspeccionan visualmente para comprobar legibilidad, márgenes y coherencia de colores. Apertura se representa en negro y Clausura en celeste.
-
-## Qué está automatizado
-
-La transformación, los controles, la carga, la exportación y la generación de gráficos y PDF se ejecutan con código. La adquisición de los insumos es una transcripción controlada. No se implementó una descarga con ScraperFC ni un agente de IA como extractor productivo. La base utilizada es SQLite; no se requiere una instancia de SQL Server ni un archivo Power BI.

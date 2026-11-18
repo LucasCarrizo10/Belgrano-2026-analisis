@@ -18,7 +18,6 @@ Las tablas web se consultaron y sus hechos relevantes se estructuraron en JSON. 
 4. Resume resultados generales y puntos del cierre.
 5. Comprueba la correspondencia entre los ocho registros de remates recibidos y los últimos cuatro encuentros de cada fase.
 6. Calcula precisión y conversión de los delanteros y comprueba que goles ≤ tiros al arco ≤ remates.
-7. Verifica que los totales de remates y los promedios publicados sean compatibles con el redondeo utilizado.
 
 Los nombres de rivales, fechas y localía se normalizaron al estructurar los insumos. Los goles se expresan desde la perspectiva de Belgrano, incluso cuando juega de visitante. Los valores numéricos usan punto decimal en JSON y coma en la presentación.
 
